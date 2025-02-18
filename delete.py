@@ -1,3 +1,4 @@
+#openpyxl支持刪除Excel文件中的工作表，但Pandas不支持直接刪除
 from openpyxl import load_workbook
 
 #載入現有的Excel文件
